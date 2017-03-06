@@ -21,10 +21,12 @@ h2 {
 }
 
 .picha {
-    
+
     margin-top: 0px;
 }
-
+.glyph {
+    background-color: silver;
+}
 .jumbotron {
     background-color: #008080;
 }
